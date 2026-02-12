@@ -1,1 +1,0 @@
-# LW1-Introduction-to-Business-Intelligence-Power-BI
