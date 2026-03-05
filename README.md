@@ -16,12 +16,16 @@ Week1_Basic_Sales_Data.csv
 6. ![part1-a](https://github.com/user-attachments/assets/f71b04be-8db1-4da2-b0a9-384716c0c23d)
 
 PART 1: Launching Power BI & Loading Data
-Step 3: Verify Data in Data View1. Click the Data View icon (table icon on the left)2. Check:
+Step 3: Verify Data in Data View
+1. Click the Data View icon (table icon on the left)
+2. Check:
 ○ Are all columns visible?
 ○ Is “Date” formatted as Date?
 ○ Is “Sales” formatted as Decimal Number?
 If Data Type is Incorrect:
-1. Click the column2. Go to Column Tools3. Change Data Type accordingly:
+1. Click the column
+2. Go to Column Tools
+3. Change Data Type accordingly:
 ○ Date → Date○ Sales → Decimal Number○ Product/Category/Region → Text
 ![part1 b](https://github.com/user-attachments/assets/9e9d64a4-44b9-499b-922c-b242caf97938)
 
@@ -31,7 +35,9 @@ PART 2: Exploring the Interface
 ![part2-reportview](https://github.com/user-attachments/assets/56624780-21d5-4309-b486-8fd44238e13e)
 
 PART 3: Creating Auto-Generated Visuals
-Step 1: Quick Visualization1. Drag Sales into canvas2. Power BI automatically creates a visualQuestion:
+Step 1: Quick Visualization
+1. Drag Sales into canvas
+2. Power BI automatically creates a visualQuestion:
    ![sum-of-sales](https://github.com/user-attachments/assets/f8df6c7f-4314-404b-8302-72bb483e862e)
 ● What type of chart was created?
  - The chart shows Sum of Sales ≈ 0.2M (200,000+).
