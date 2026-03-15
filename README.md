@@ -122,12 +122,55 @@ Drag Sales3. Format:
 Question:● What is the total sales amount?
 - Total Sales amount: 220k
 
+ENHANCEMENT SECTION
+Task 2: Add Slicer
+1. Insert Slicer
+2. Drag Region
+3. Test filtering
+
+Question:
+● What happens to other visuals 
+when you click a region?
+- All visuals on the page filter to show data 
+ONLY for the selected region.
+● Why is filtering important in BI?
+- Filtering is important because it:
+ - Allows users to analyze specific segments of data
+ - Helps in comparing performance between regions
+
+ENHANCEMENT SECTION
+Task 3: Sort Sales
+1. Click Region Chart
+2. Click three dots (...)
+3. Sort by Sales Descending
+Question:
+● Does sorting improve readability?
+Yes 
+● Why?
+- sorting dramatically improves readability by pre-attentively ordering information.
+- It allows immediate identification of best/worst performers without manual comparison.
+- Sorted charts are also easier to annotate (e.g., 'Top performer: West, +28% above average').
 
 
+ENHANCEMENT SECTION
+Task 4: Identify Outliers
 
+● Which region is significantly higher or lower?
+The North region is significantly lower than the others.
 
+● What might explain that difference?
 
+North appears as a negative outlier because its bar is much shorter compared to West, East, and South, which have similar values.
 
+Possible reasons include fewer sales representatives assigned to the region.
+
+Seasonal demand differences may reduce purchasing activity.
+
+There may be a product–market mismatch if the main product category has lower demand in that area.
+
+The region may also have a smaller target customer population.
+
+Further analysis of product categories in the North region can determine whether the low performance affects all categories or only specific ones.
 
 
 
